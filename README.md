@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React dot js**
 
-- 👯 I’m looking to collaborate on **sanny leoni**
+- 👯 I’m looking to collaborate on **sanny devol**
 
 - 🤝 I’m looking for help with **sugar**
 
