@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Me Shubham G Dhakad</h1>
+<h1 align="center">Hi 👋, Me Shubham ji Dhakad</h1>
 <h3 align="center">Ek CSE Student MIT Ujjain se</h3>
 <img src="https://i.gifer.com/embedded/download/5O5m.gif">
 <img src="https://img2.joyreactor.com/pics/post/software-developer-gif-1540802.gif">
