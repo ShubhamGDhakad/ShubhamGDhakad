@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Me Shubham G Dhakad</h1>
-<h3 align="center">Ek CSE Student MIT california se</h3>
+<h3 align="center">Ek CSE Student MIT Ujjain se</h3>
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=teju4tech&label=Profile%20views&color=0e75b6&style=flat" alt="teju4tech" /> </p>
