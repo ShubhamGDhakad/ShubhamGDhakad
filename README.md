@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React dot js**
 
-- 👯 I’m looking to collaborate on **full stack web devlopment**
+- 👯 I’m looking to collaborate on **full stack web devlopment project**
 
 - 🤝 I’m looking for help with **sugar**
 
