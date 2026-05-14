@@ -27,3 +27,6 @@ Currently Learning:
 Goal:
   - Become a world-class Software Engineer
   - Build a successful Tech Company
+
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,django,flutter,dart,git,github,vscode,firebase,mysql" /> </p>
