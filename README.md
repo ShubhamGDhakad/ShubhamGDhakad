@@ -13,7 +13,11 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,django,flutter,dart,git,github,vscode,firebase,mysql" /> </p>
 ---
 
-<p align="center"> <a href="dhakadshubham594@gmail.com"> <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/ShubhamGDhakad"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
+<p align="center">
+
+⚡ "Code. Create. Conquer." ⚡
+
+</p>
 
 # 🌌 About Me
 
