@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | Flutter Learner | Future Tech Entrepreneur
+  🚀 Full Stack Developer | python devloper | Future Tech Entrepreneur
 </h3>
 
 <p align="center">
