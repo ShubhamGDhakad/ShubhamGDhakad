@@ -91,24 +91,22 @@ to build scalable digital products.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ShubhamGDhakad&show_icons=true&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGDhakad&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=ShubhamGDhakad&theme=tokyonight&hide_border=true"
-    height="170"
+    alt="GitHub Streak"
   />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ShubhamGDhakad">
+    <img
+      src="https://img.shields.io/badge/GitHub-ShubhamGDhakad-181717?style=for-the-badge&logo=github"
+      alt="GitHub Profile"
+    />
+  </a>
 </p>
 
 ## 🤝 Let's Connect
