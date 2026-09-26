@@ -1,39 +1,111 @@
-<h1 align="center">
-  Hey 👋 I'm Shubham Dhakad
-</h1>
+# Hey 👋 I'm Shubham Dhakad
 
-<h3 align="center">
-  🚀 Full Stack Developer | python devloper | Future Tech Entrepreneur
-</h3>
+### 🐍 Python Developer | Django Developer | Full Stack Developer
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+To+My+Digital+World+⚡;Full+Stack+Web+Developer+💻;Flutter+Developer+📱;Future+Billionaire+Entrepreneur+🚀;Building+Cool+Things+With+Code+🔥" />
-</p>
+I’m a Computer Science graduate passionate about building practical web applications
+and learning modern software development.
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,python,django,flutter,dart,git,github,vscode,firebase,mysql" /> </p>
+I enjoy turning ideas into real, usable products — from backend systems and APIs
+to complete web applications.
+
 ---
 
-<p align="center">
+## 👨‍💻 About Me
 
-⚡ "Code. Create. Conquer." ⚡
+- 🎓 B.Tech in Computer Science & Engineering
+- 🐍 Focused on Python & Django development
+- 🌐 Building full-stack web applications
+- 🗄️ Working with SQL & PostgreSQL
+- 🔌 Building and integrating REST APIs
+- 💳 Exploring payment gateway integrations
+- 📱 Working with WhatsApp API integrations
+- 🚀 Learning deployment and production workflows
+- 💡 Interested in building real-world digital products
 
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,css,javascript" />
 </p>
 
-# 🌌 About Me
+### Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-```yaml
-Name: Shubham Dhakad
-Location: India 🇮🇳
-Education: CSE Student
-Passion: Building futuristic digital experiences
-Currently Learning:
-  - Full Stack Development
-  - Flutter
-  - Django
-  - Modern UI/UX
-Goal:
-  - Become a world-class Software Engineer
-  - Build a successful Tech Company
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql" />
+</p>
 
+### Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
+---
 
+## 🚀 What I'm Currently Working On
+
+### 🏪 Shree Shyam Hub
+
+A full-stack Django-based platform combining:
+
+- 🛒 E-commerce functionality
+- 🎓 Online courses / education
+- 🛠️ Online services
+- 👤 User authentication
+- 💳 Payment integration
+- 📱 WhatsApp notifications
+- 🗄️ Database-driven backend
+- 🚀 Deployment & production setup
+
+I'm continuously improving the project and learning from the process of
+building and deploying a real-world application.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Django
+- REST API Development
+- FastAPI
+- PostgreSQL & Database Design
+- Authentication & Authorization
+- Payment Gateway Integration
+- API Integrations
+- Deployment & Production
+- Modern Web Development
+
+---
+
+## 🎯 Goals
+
+> Build useful software, keep learning, and eventually build products of my own.
+
+My long-term goal is to become a strong software engineer and use technology
+to build scalable digital products.
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamGDhakad&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamGDhakad&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, building projects, and connecting with
+people interested in technology.
+
+📧 Feel free to connect with me through GitHub.
